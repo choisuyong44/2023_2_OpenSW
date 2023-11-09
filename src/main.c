@@ -1,7 +1,7 @@
 # include "funcs.h"
 
 int main(){
-    foo();
+    foo(10);
     printf("\n");
     goo();
     printf("\n");
